@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{81D582D0-EF43-4085-ABC7-EAA346AA1D3C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/PersonController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="115" Column="28" />
+      <File FileName="Library.cs" Line="10" Column="9" />
+      <File FileName="Book.cs" Line="7" Column="21" />
+      <File FileName="Exceptions/RegisterFailedException.cs" Line="8" Column="73" />
+      <File FileName="Helpers/AccountMessages.cs" Line="8" Column="56" />
+      <File FileName="Models/BaseEntity.cs" Line="6" Column="16" />
+      <File FileName="Models/Person.cs" Line="4" Column="34" />
+      <File FileName="Service/Interfaces/IPersonService.cs" Line="8" Column="23" />
+      <File FileName="Service/PersonService.cs" Line="23" Column="86" />
+      <File FileName="Data/AppDbContext.cs" Line="28" Column="14" />
+      <File FileName="Controllers/PersonController.cs" Line="24" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practice" expanded="True">
+            <Node name="Practice">
+              <Node name="Controllers">
+                <Node name="PersonController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Service" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
